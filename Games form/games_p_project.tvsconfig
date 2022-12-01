@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.games_u" Type="System.String" Value="games_u" Category="General" IsBrowsable="False" />
+</TgConfig>

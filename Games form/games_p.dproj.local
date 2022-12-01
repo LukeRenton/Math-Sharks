@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/27 11:28:33.933.pas,C:\Users\luker\Documents\RAD Studio\Projects\Unit1.pas=E:\Grade 12 PAT\Pat gr12\Games form\games_u.pas</Transaction>
+    <Transaction>2021/04/27 11:28:33.933.dfm,C:\Users\luker\Documents\RAD Studio\Projects\Unit1.dfm=E:\Grade 12 PAT\Pat gr12\Games form\games_u.dfm</Transaction>
+    <Transaction>2021/04/27 11:28:39.869.dproj,C:\Users\luker\Documents\RAD Studio\Projects\Project1.dproj=E:\Grade 12 PAT\Pat gr12\Games form\games_p.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="D:\Pat gr12"/>
+    <File Path="..\Main Form"/>
+    <File Path="..\Main Form\dmMathsharks_u.pas"/>
+    <File Path="..\Main Form\dmMathsharks_u.dfm"/>
+    <File Path="Games"/>
+    <File Path="Games\Math Game"/>
+    <File Path="Games\Math Game\mathgame_u.pas"/>
+    <File Path="Games\Math Game\mathgame_u.dfm"/>
+    <File Path="Games\Noughtsandcrosses"/>
+    <File Path="Games\Noughtsandcrosses\Noughtsandcrosses_p.pas"/>
+    <File Path="Games\Noughtsandcrosses\Noughtsandcrosses_p.dfm"/>
+    <File Path="Games\Snake"/>
+    <File Path="Games\Snake\snake_u.pas"/>
+    <File Path="Games\Snake\snake_u.dfm"/>
+    <File Path="ModelSupport_games_p"/>
+    <File Path="ModelSupport_games_p\games_p"/>
+    <File Path="ModelSupport_games_p\games_p\default.txvpck"/>
+    <File Path="ModelSupport_games_p\games_u"/>
+    <File Path="ModelSupport_games_p\games_u\default.txvpck"/>
+    <File Path="ModelSupport_games_p\default.txaPackage"/>
+    <File Path="ModelSupport_games_p\default.txvpck"/>
+    <File Path="games_u.pas"/>
+    <File Path="games_u.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
