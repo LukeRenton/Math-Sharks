@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/06 15:16:26.221.pas,C:\Users\luker\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\luker\OneDrive\Pat gr12\Main_u.pas</Transaction>
+    <Transaction>2021/03/06 15:16:26.221.dfm,C:\Users\luker\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\luker\OneDrive\Pat gr12\Main_u.dfm</Transaction>
+    <Transaction>2021/03/06 15:16:33.591.dproj,C:\Users\luker\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\luker\OneDrive\Pat gr12\Main_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
