@@ -3,11 +3,11 @@ Math sharks is a utility program for teachers to be able to see their students p
 
 ## Login details
 You may either create an account or just use theses details:  
-For a teacher:
+For a teacher: (has access to Data base and mySQL commands)
  - Username: funny  
  - Password: Ilovedogs
    
-For a student:
+For a student: (access to the course)
  - Username: Skater
  - Password: CrazyHouse
  
